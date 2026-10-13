@@ -1,4 +1,17 @@
-# Zapper AIO — descargas
+<h1 align="center">🌱 Zapper AIO</h1>
+
+<p align="center"><b>Notas, tareas, calendario, horario, hábitos y foco con un huerto 3D, todo en una app.</b><br>
+Sin internet ni suscripciones.<br>
+<sub>Este repositorio solo contiene las <b>descargas</b>: el código fuente es privado.</sub></p>
+
+<p align="center">
+  <a href="https://github.com/euZAPUS/zapper-aio-releases/releases/latest"><img alt="Última versión" src="https://img.shields.io/github/v/release/euZAPUS/zapper-aio-releases?style=flat-square&labelColor=09090a&color=ffae00"></a>
+  <img alt="Plataformas" src="https://img.shields.io/badge/Windows%20%C2%B7%20Linux-8d8f96?style=flat-square&labelColor=09090a">
+  <img alt="Solo descargas, código privado" src="https://img.shields.io/badge/solo-descargas%20%C2%B7%20c%C3%B3digo%20privado-8d8f96?style=flat-square&labelColor=09090a">
+  <a href="https://alvaro.sangon.eu"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-alvaro.sangon.eu-ffae00?style=flat-square&labelColor=09090a"></a>
+</p>
+
+## Descargas
 
 Aquí se publican los programas de **Zapper AIO**, mi app personal "todo en uno" (tareas, notas, horario, hábitos, foco con plantas…) para Windows y Linux.
 
